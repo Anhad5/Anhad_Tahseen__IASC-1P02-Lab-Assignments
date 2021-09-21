@@ -1,0 +1,10 @@
+.font{
+  font-family: Arial, sans-serif;
+  text-transform: uppercase;
+}
+
+.imageDesigns{
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+}
