@@ -2,7 +2,7 @@ body{
   background-color: red;
 }
 
-#greenText{
+.greenText{
   color: #54C12E;
   font-style: italic;
 }
