@@ -1,0 +1,26 @@
+.box{
+  margin: 10px 0px 20px 0px ;
+  padding: 0px 10px 0px 0px;
+  background-color:green;
+}
+
+#ss{
+  margin: 0px 20px 20px 20px ;
+  padding: 25px 20px 25px 10px;
+  border: black 3px dashed;
+}
+
+.ol{
+  break-after: auto;
+  color: red;
+  font-size: 20px;
+}
+
+#id{
+  color: yellow;
+}
+
+.qw{
+  font-family: "Lucida Console", "Courier New", monospace;
+  color: #250B44;
+}

@@ -1,0 +1,26 @@
+body{
+  background-color: yellow;
+}
+
+.box{
+  margin: 100px 200px 200px 200px ;
+  border: black 3px solid;
+  padding: 10px 10px 0px 0px;
+  background-color:blue;
+}
+
+p{
+  text-align: center;
+  color: pink;
+  margin: 20px 20px 20px 20px ;
+  border: white 1px dotted;
+  padding: 10px 10px 10px 10px;
+  background-color:black;
+}
+
+img{
+  margin: 20px 200px 0px 200px ;
+  border: green 2px dashed;
+  padding: 10px 10px 10px 10px;
+  background-color:red;
+}

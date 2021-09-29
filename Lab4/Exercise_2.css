@@ -1,0 +1,40 @@
+
+.para{
+  margin: 10px 10px 10px 10px ;
+  border: green 3px dotted;
+  padding: 250px 10px 30px 10px;
+  background-color: #EEDAE0;
+  text-align: center;
+  color: #3C1971;
+}
+
+
+.ef{
+  text-align: center;
+  color: #3D6A22;
+  font-size: 11px
+}
+
+.text{
+  font-size: 50px;
+  color: orange;
+  text-shadow: 2px 2px black;
+}
+
+#dd{
+  color: red;
+  font-size: 30px;
+  vertical-align: text-top;
+}
+
+.sa{
+  color: blue;
+  font-size: 19px;
+  text-align: right;
+  font-style: italic;
+}
+
+#ui{
+  text-decoration: underline;
+  color: #022D3F;
+}
