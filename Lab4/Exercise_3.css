@@ -11,7 +11,7 @@
 }
 
 .ol{
-  break-after: auto;
+  display: block;
   color: red;
   font-size: 20px;
 }

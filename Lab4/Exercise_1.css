@@ -18,8 +18,8 @@ p{
   background-color:black;
 }
 
-img{
-  margin: 20px 200px 0px 200px ;
+#img{
+  margin: 20px 20px 0px 20px ;
   border: green 2px dashed;
   padding: 10px 10px 10px 10px;
   background-color:red;
