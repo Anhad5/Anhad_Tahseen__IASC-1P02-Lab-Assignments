@@ -1,0 +1,26 @@
+body{
+  color:white;
+  background-color:yellow;
+}
+
+#header{
+  background-color:red;
+	height:70px;
+	text-align:center;
+  padding:5px;
+}
+
+#middle{
+	height: 600px;
+	background-color:green;
+  padding:5px;
+  font-style: italic;
+}
+
+#bottom{
+	text-align:left;
+	height:70px;
+  padding:5px;
+  font-weight: bold;
+  background-color:blue;
+}
