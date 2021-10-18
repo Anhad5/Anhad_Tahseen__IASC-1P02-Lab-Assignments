@@ -1,0 +1,53 @@
+body{
+  color:black;
+  background-color:yellow;
+}
+
+h1{
+  font-style: italic;
+  text-align:center;
+  position: relative;
+  margin: 20px 20px 30px 20px ;
+  border: blue 2px dotted;
+  padding: 10px 10px 10px 10px;
+  background-color:pink;
+}
+
+.box{
+  margin: 50px 20px 20px 20px ;
+  border: red 3px solid;
+  padding: 10px 10px 10px 0px;
+  background-color:black;
+}
+
+
+
+img{
+  margin: 20px 20px 20px 20px ;
+  border: #54234e 2px dashed;
+  padding: 10px 10px 10px 10px;
+  background-color:#42f5d7;
+  position: relative;
+}
+
+#top h2{
+  font-style: italic;
+  text-align:center;
+  color: red;
+  text-decoration: underline;
+}
+
+
+p, ul, ol{
+  font-family: cursive;
+}
+
+#text2{
+  text-transform: uppercase;
+}
+
+
+.text{
+  font-size: 18px;
+  color: purple;
+}
